@@ -32,7 +32,7 @@ automation-scripts-checklist/
 |------------|--------------------|----------------|-------------|-------------|
 | [Betcli](https://jogoleon.com)  | ✅ | 2h | ✅ | Instável nos fins de semana |
 | [PlaySecure](https://jogoleon.com) | ✅ | 45min | ✅ | Melhor consistência até agora |
-| [Lunubet](https://tracking.thejackpotj.com/Tracking/click/?affid=220662&offerid=1512&lpid=1905)  | 
+| [Lunubet](https://tracking.thejackpotj.com/Tracking/click/?affid=220662&offerid=1512&lpid=1905)  ✅ | 1min | ✅ | Mais diversidade e consistência até agora |
 ---
 
 ## ✅ O que acabou funcionando
