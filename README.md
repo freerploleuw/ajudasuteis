@@ -30,14 +30,14 @@ automation-scripts-checklist/
 
 | Plataforma | Payout monitorado | Delay no saque | Suporte API | Observações |
 |------------|--------------------|----------------|-------------|-------------|
-| BetFast.io | ✅ | 2h | ✅ | Instável nos fins de semana |
-| [PlaySecure](https://seulinkcamuflado.com/go123) | ✅ | 45min | ✅ | Melhor consistência até agora |
-| LuckyGamer | 
+| [Betcli](https://jogoleon.com)  | ✅ | 2h | ✅ | Instável nos fins de semana |
+| [PlaySecure](https://jogoleon.com) | ✅ | 45min | ✅ | Melhor consistência até agora |
+| [Lunubet](https://jogoleon.com)  | 
 ---
 
 ## ✅ O que acabou funcionando
 
-Sinceramente? Fiquei com o [WorkflowPro]([https://linkcamuflado.com/redirect123](https://jogoleon.com)).  
+Sinceramente? Fiquei com o [WorkflowPro]([https://jogoleon.com/](https://jogoleon.com)).  
 Não dava nada, mas foi o único que:
 
 - Parece app nativo  
